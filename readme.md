@@ -4,11 +4,15 @@
 
 本项目也是本人的第一个公开项目，竞赛转来的，码风似乎不良（
 
+你看到项目名了，我爱VOCALOID CHINA！！！
+
+洛天依&&乐正绫，启动！
+
 
 
 ### 文件结构 structure
 
-```plain text
+```plain
 --root
   --try_first.py      ;当前版本所有受支持功能的demo
   --src               ;放分模块代码的地方
@@ -37,7 +41,7 @@
 
 - demo中有提供FPS检测、显示
 
-
+### 
 
 ### 一期upd计划提供的功能 first functions developing
 
@@ -51,7 +55,7 @@
 
 - 音频模块，启动！
 
-
+### 
 
 ### 使用方法 using guide
 
